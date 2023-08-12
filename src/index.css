@@ -1,0 +1,20 @@
+html {
+  font-size: 625%;
+}
+
+
+body {
+  margin: 0;
+  font: 300 11px/1.4 'Helvetica Nune', 'sans-serif';
+  color: #ffffff;
+  background: #000000;
+  display: block;
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
